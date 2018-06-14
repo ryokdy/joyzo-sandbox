@@ -1,4 +1,4 @@
 hello world
 こんにちは
-bar
-bar
+foo
+foo
