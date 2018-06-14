@@ -1,5 +1,6 @@
 hello world
 こんにちは
+baz
 foo
 foo
 bar
