@@ -4,7 +4,9 @@ baz
 foo
 foo
 Hello, nonbun
+へいへい
 もう一行追加したよ
 さらに一行
 オラふが
 これはtopicブランチでの変更です（門屋）。
+Hello, Nonbin!! from Yamaroo
