@@ -5,3 +5,5 @@ foo
 foo
 Hello, nonbun
 へいへい
+もう一行追加したよ
+さらに一行
