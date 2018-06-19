@@ -1,4 +1,8 @@
 hello world
 こんにちは
+baz
 foo
 foo
+Hello, nonbun
+もう一行追加したよ
+さらに一行
